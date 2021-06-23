@@ -17,4 +17,7 @@ You can run the application using gradle, from the project root:
 
 - `PROJECT_KB_PATH:` Path to the project-kb root
 - `SZZ_PATH:` Path to SZZ Unleashed szz_find_bug_introducers.jar file
-We don't need the other scripts that the SZZ Unleashed implementation provides.
+We don't need the other scripts that the SZZ Unleashed implementation provides. 
+
+The resulting `results.yaml` file can be found in the `app` folder. 
+An example of the `results.yaml` file's structure can be seen as `example.yaml`.
