@@ -1,0 +1,15 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+app/tmp
+app/results.yaml
+app/issue_list.json
+app/test
+app/build
+
+.idea
+
+
